@@ -4,6 +4,7 @@ Thumbs.db
 db.files
 desktop.ini
 
+
 # IDEs and editors
 .vscode/
 .idea/
@@ -30,6 +31,7 @@ env/
 venv/
 .venv/
 pip-log.txt
+token.txt
 pip-delete-this-directory.txt
 
 # Log files
